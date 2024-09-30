@@ -5,11 +5,18 @@
 - 💬 Ask me about **Android, Jetpack Compose, Android Security, AES/RSA, Clean Architecture, SOLID Principles, Design Patterns**.
 - 📫 How to reach me: mik237@gmail.com
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mik237)](https://git.io/streak-stats)
 
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=mik237&count_private=true&show_icons=true" />
+</p>
+
+<p >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mik237&" />
+</p>
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mik237&show_icons=true&theme=radical)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mik237)](https://git.io/streak-stats)
 
  ![Followers](https://img.shields.io/github/followers/mik237?style=social)
 
