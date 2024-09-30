@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)     ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+## Hi there 👋 I'm Muhammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mik237/)     ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
 
 - 🔭 I’m currently working on **Android, Jetpack Compose, MVVM, MVI, Clean Architecture, KMP, and TDD**.
 - 🌱 I’m currently learning **KMP, CMP**.
