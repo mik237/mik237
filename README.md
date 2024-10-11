@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mik237/)     ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+## Hi there 👋 I'm Muhammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mik237/)
 
 - 🔭 I’m currently working on **Android, Jetpack Compose, MVVM, MVI, Clean Architecture, KMP, and TDD**.
 - 🌱 I’m currently learning **KMP, CMP**.
@@ -6,9 +6,7 @@
 - 📫 How to reach me: mik237@gmail.com
 
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=mik237&count_private=true&show_icons=true" />
-</p>
+
 
 <p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mik237&" />
@@ -17,6 +15,13 @@
 
 
 <!--
+
+![Profile Views](https://komarev.com/ghpvc/?username=mik237)
+
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=mik237&count_private=true&show_icons=true" />
+</p>
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik237&hide=javascript,css,scss,html)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mik237&show_icons=true&theme=radical)
