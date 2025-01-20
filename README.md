@@ -8,19 +8,21 @@
 
 
 
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mik237&" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mik237" />
+
+
+  <p >
+  <img src="https://github-readme-stats.vercel.app/api?username=mik237&count_private=true&show_icons=true" />
 </p>
-
-
 
 <!--
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mik237)
 
-<p >
-  <img src="https://github-readme-stats.vercel.app/api?username=mik237&count_private=true&show_icons=true" />
-</p>
+
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Nirzak)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mik237&hide=javascript,css,scss,html)
 
