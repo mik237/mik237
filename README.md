@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Muhammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mik237/)
+## Hi there 👋 I'm Mohammad Ibrahim   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mik237/)
 
 - 🔭 🌱 I’m currently working on **Android, Jetpack Compose, MVVM, MVI, Clean Architecture, KMP, and TDD**.
 - 💬 Ask me about **Android, Jetpack Compose, Android Security, AES/RSA, Clean Architecture, SOLID Principles, Design Patterns**.
